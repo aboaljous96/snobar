@@ -12,7 +12,7 @@ ENDPOINT_URL = "https://api.binance.com/api/v3/ticker/24hr"
 TICKER_SYMBOL = "BTCUSDT"
 
 # Set the number of past days to use as input data
-NUM_PAST_DAYS = 365
+NUM_PAST_DAYS = 360
 
 # Set up sell/buy rules
 THRESHOLD = 0.005
